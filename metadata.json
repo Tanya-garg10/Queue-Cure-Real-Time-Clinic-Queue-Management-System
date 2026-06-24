@@ -1,0 +1,6 @@
+{
+  "name": "Queue Cure",
+  "description": "A real-time clinic queue management system featuring token updates, wait time estimation, and receptionist dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
