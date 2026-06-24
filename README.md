@@ -2,8 +2,6 @@
 
 > A smart, AI-powered clinic queue management system that eliminates patient waiting room chaos with real-time token tracking, intelligent wait time estimation, and a streamlined receptionist dashboard.
 
----
-
 ## ✨ Features
 
 - 🎫 **Real-Time Token System** — Patients receive tokens and can track their position live
@@ -13,8 +11,6 @@
 - 👁️ **Patient View** — Clean interface for patients to monitor their turn
 - 🔔 **Live Queue Updates** — Instant updates without page refresh
 - 📱 **Responsive Design** — Works seamlessly on desktop and mobile
-
----
 
 ## 🛠️ Tech Stack
 
@@ -27,8 +23,6 @@
 | Animations | Motion (Framer Motion) |
 | Icons | Lucide React |
 | Build Tool | Vite |
-
----
 
 ## 🚀 Run Locally
 
@@ -67,8 +61,6 @@
 
 5. Open your browser and go to `http://localhost:5173`
 
----
-
 ## 📁 Project Structure
 
 ```
@@ -93,8 +85,6 @@ Queue-Cure/
 └── package.json                  # Project dependencies
 ```
 
----
-
 ## 🔐 Environment Variables
 
 | Variable | Description | Required |
@@ -104,14 +94,9 @@ Queue-Cure/
 
 > ⚠️ **Never commit your `.env.local` file.** It is already listed in `.gitignore`.
 
----
-
 ## 👩‍💻 Author
 
 **Tanya Garg**
-- GitHub: [@Tanya-garg10](https://github.com/Tanya-garg10)
-
----
 
 ## 📄 License
 
